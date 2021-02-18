@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">admin</string>
+    <string name="password">password</string>
+    <string name="message_good">Верно</string>
+    <string name="message_bad">Ошибка в логине или пароле</string>
+    <color name="color_good">#67F700</color>
+    <color name="color_bad">#F70800</color>
+</resources>
